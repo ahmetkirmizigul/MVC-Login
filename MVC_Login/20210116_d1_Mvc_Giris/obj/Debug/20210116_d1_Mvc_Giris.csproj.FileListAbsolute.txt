@@ -1,0 +1,150 @@
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.dll.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.pdb
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.Managed.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.AppContext.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Collections.Immutable.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Console.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Compression.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.FileSystem.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Pipes.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Reflection.Metadata.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.AccessControl.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Claims.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Principal.Windows.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.ValueTuple.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XmlDocument.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XPath.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.rsp
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\VBCSCompiler.exe
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\VBCSCompiler.exe.config
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.Web.Infrastructure.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Helpers.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Mvc.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Razor.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Deployment.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Razor.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Razor.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Deployment.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Razor.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Helpers.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Mvc.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csprojAssemblyReference.cache
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csproj.CoreCompileInputs.cache
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csproj.CopyComplete
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.pdb
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\EntityFramework.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\EntityFramework.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.Mvc.dll
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.xml
+D:\24062020_Desktop\to\SmartPro_101_Sabah Grubu\6-MVCDersleri\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.Mvc.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.dll.config
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\20210116_d1_Mvc_Giris.pdb
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.exe
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.exe.config
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csc.rsp
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.exe
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.exe.config
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\csi.rsp
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.AppContext.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Collections.Immutable.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Console.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Compression.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.FileSystem.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.IO.Pipes.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Reflection.Metadata.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.AccessControl.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Claims.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.ValueTuple.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XPath.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.exe
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.exe.config
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\vbc.rsp
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\VBCSCompiler.exe
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\roslyn\VBCSCompiler.exe.config
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\EntityFramework.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.Web.Infrastructure.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.Mvc.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Helpers.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Mvc.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Razor.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Deployment.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Razor.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\EntityFramework.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\PagedList.Mvc.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Razor.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Deployment.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Webpages.Razor.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Helpers.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\System.Web.Mvc.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csproj.AssemblyReference.cache
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csproj.CoreCompileInputs.cache
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.csproj.CopyComplete
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.dll
+D:\AYTAÇ HOCA\Aytaç Hoca-MVC giriş\20210116_d1_Mvc_Giris\20210116_d1_Mvc_Giris\obj\Debug\20210116_d1_Mvc_Giris.pdb

@@ -1,0 +1,28 @@
+﻿@using _20210116_d1_Mvc_Giris.Models;
+@model List<Categories>
+@{
+    ViewBag.Title = "Kategori Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kateegori Listele</h2>
+
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Kategori Adı</th>
+            <th>Açıklama</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kategori in Model)
+        {
+            <tr>
+                <td>@kategori.CategoryName</td>
+                <td>@kategori.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>

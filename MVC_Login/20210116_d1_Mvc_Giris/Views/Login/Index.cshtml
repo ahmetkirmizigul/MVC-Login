@@ -1,0 +1,55 @@
+﻿@model _20210116_d1_Mvc_Giris.Models.Users
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login Sayfası</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <style>
+        .login {
+            width: 450px;
+            margin: 0 auto;
+            margin-top: 100px;
+            border: 1px solid #000;
+            padding: 30px;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <div class="container">
+            <div class="login">
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.UserName, new { @class = "col-lg-4 control-label" })
+                        <div class="col-lg-8">
+                            @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Password, new { @class = "col-lg-4 control-label" })
+                        <div class="col-lg-8">
+                            @Html.TextBoxFor(x => x.Password, new { @class = "form-control", @type = "password" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-lg-offset-4 col-lg-8">
+                            <button type="submit" class="btn btn-default">Giriş Yap</button>
+                        </div>
+                    </div>
+
+                    @Html.Raw(TempData["Mesaj"])
+                </div>
+            </div>
+        </div>
+    }
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

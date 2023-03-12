@@ -1,0 +1,95 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@using _20210116_d1_Mvc_Giris.Models
+@model IPagedList<_20210116_d1_Mvc_Giris.Models.Products>
+@{
+    ViewBag.Title = "Ürünler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ürün Listesi</h2>
+<hr />
+
+@Html.Raw(TempData["Mesaj"])
+
+@using (Html.BeginForm("Index", "Urun", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col-md-3">
+            @Html.TextBox("urunAdi", null, new { @class = "form-control", @placeholder = "Ürün adı yazınız." })
+        </div>
+        <div class="col-md-3">
+            @Html.DropDownList("kategori", (SelectList)ViewBag.Kategori, "Kategori Seçiniz", new { @class = "form-control" })
+        </div>
+        <div class="col-md-3">
+            @Html.DropDownList("tedarikci", (SelectList)ViewBag.Tedarikci, "Tedarikçi Seçiniz", new { @class = "form-control" })
+        </div>
+        <div class="col-md-3">
+            <button class="btn btn-primary btn-block">Filtrele</button>
+        </div>
+    </div>
+}
+
+<hr />
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                <a href="@Url.Action("Index", "Urun", new { SayfaNo = Request.QueryString["SayfaNo"], urunAdi = Request.QueryString["urunAdi"], kategori = Request.QueryString["kategori"], tedarikci = Request.QueryString["tedarikci"], sort = "ProductName",
+                        sortType = (
+                                 (Request.QueryString["sort"] == "ProductName" &&
+                                  Request.QueryString["sortType"] == "ASC") ?
+                                     "DESC" : "ASC")
+                         })">
+                    @Html.DisplayNameFor(x => x.FirstOrDefault().ProductName)
+                </a>
+            </th>
+            <th>
+                <a href="@Url.Action("Index", "Urun", new { SayfaNo = Request.QueryString["SayfaNo"], urunAdi = Request.QueryString["urunAdi"], kategori = Request.QueryString["kategori"], tedarikci = Request.QueryString["tedarikci"], sort = "CategoryID",
+                             sortType = (
+                                 (Request.QueryString["sort"] == "CategoryID" &&
+                                  Request.QueryString["sortType"] == "ASC") ?
+                                     "DESC" : "ASC")
+                         })">
+                    @Html.DisplayNameFor(x => x.FirstOrDefault().CategoryID)
+                </a>
+            </th>
+            <th>
+                <a href="@Url.Action("Index", "Urun", new { SayfaNo = Request.QueryString["SayfaNo"], urunAdi = Request.QueryString["urunAdi"], kategori = Request.QueryString["kategori"], tedarikci = Request.QueryString["tedarikci"], sort = "SupplierID",
+                             sortType = (
+                                 (Request.QueryString["sort"] == "SupplierID" &&
+                                  Request.QueryString["sortType"] == "ASC") ? 
+                                     "DESC" : "ASC")
+                         })">
+                    @Html.DisplayNameFor(x => x.FirstOrDefault().SupplierID)
+                </a>
+            </th>
+            <th>@Html.DisplayNameFor(x => x.FirstOrDefault().UnitPrice)</th>
+            <th>@Html.DisplayNameFor(x => x.FirstOrDefault().UnitsInStock)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <td>@urun.ProductName</td>
+                <td>@urun.Categories.CategoryName</td>
+                <td>@urun.Suppliers.CompanyName</td>
+                <td>@urun.UnitPrice.Value.ToString("C")</td>
+                <td>@urun.UnitsInStock</td>
+                <td class="text-right">
+                    <a href="@Url.Action("Duzenle", new{ id = urun.ProductID })" class="btn btn-warning">Düzenle</a>
+                    <a href="@Url.Action("Sil", new { id = urun.ProductID })" onclick="return  confirm('Silme işlemini gerçekleştirmek istediğinizden emin misiniz?')" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    @Html.PagedListPager(Model, _sayfaNo => Url.Action("Index", "Urun", new { SayfaNo = _sayfaNo, urunAdi = Request.QueryString["urunAdi"], kategori = Request.QueryString["kategori"], tedarikci = Request.QueryString["tedarikci"], sort = Request.QueryString["sort"] }), PagedListRenderOptions.Classic)
+</div>
+
+

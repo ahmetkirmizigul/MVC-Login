@@ -1,0 +1,48 @@
+﻿@model _20210116_d1_Mvc_Giris.Models.Products
+@{
+    ViewBag.Title = "Ürün Düzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ürün Düzenle</h2>
+<hr />
+
+@Html.Raw(TempData["Mesaj"])
+
+@using (Html.BeginForm("Duzenle")) // HttpPost
+{
+    @Html.HiddenFor(x => x.ProductID)
+    <div class=" form-group">
+        @Html.LabelFor(x => x.ProductName)
+        @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(x => x.CategoryID)
+        @Html.DropDownListFor(x => x.CategoryID, null, "Kategori Seçiniz", new { @class = "form-control" })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(x => x.SupplierID)
+        @Html.DropDownListFor(x => x.SupplierID, null, "Tedarikçi Seçiniz", new { @class = "form-control" })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(x => x.QuantityPerUnit)
+        @Html.TextBoxFor(x => x.QuantityPerUnit, new { @class = "form-control" })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(x => x.UnitPrice)
+        @Html.TextBoxFor(x => x.UnitPrice, new { @class = "form-control" })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(x => x.UnitsInStock)
+        @Html.TextBoxFor(x => x.UnitsInStock, new { @class = "form-control" })
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(x => x.Discontinued) @Html.LabelFor(x => x.Discontinued)
+        </label>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    </div>
+}
+

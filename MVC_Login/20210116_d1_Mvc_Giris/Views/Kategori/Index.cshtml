@@ -1,0 +1,33 @@
+﻿@using _20210116_d1_Mvc_Giris.Models
+
+@{
+    ViewBag.Title = "Kategoriler";
+}
+
+<h2>Kategoriler</h2>
+<hr />
+
+@Html.Raw(TempData["Mesaj"])
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Kategori Adı</th>
+            <th>Açıklama</th>
+            <th class="text-right">İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kategori in (List<Categories>)ViewBag.Kategoriler)
+        {
+            <tr>
+                <td>@kategori.CategoryName</td>
+                <td>@kategori.Description</td>
+                <td class="text-right">
+                    <a href="@Url.Action("Duzenle", new{ id = kategori.CategoryID })" class="btn btn-warning">Düzenle</a>
+                    <a href="@Url.Action("Sil", new { id = kategori.CategoryID })" onclick="return  confirm('Silme işlemini gerçekleştirmek istediğinizden emin misiniz?')" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
